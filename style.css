@@ -25,12 +25,13 @@ body{
  }
  .icon{
     position:absolute;
-    right:40px;  
+    right:70px;  
+    border-radius: 50%;
     }
 @media (max-width:375px) {
     .mobile{
         display: block;
-        
+
     }
 }
 
